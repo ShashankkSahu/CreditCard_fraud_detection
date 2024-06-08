@@ -1,4 +1,5 @@
 # Credit Card Fraud Detection
+<img src="https://github.com/ShashankkSahu/CreditCard_fraud_detection/blob/master/Model%20Deployment/Model_GUI.png">
 
 Detecting credit card fraud using machine learning models.
 
