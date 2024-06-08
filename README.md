@@ -27,9 +27,9 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 <a id='2.1.1'></a>
 ## Project Overview
-The Project consists of 2 Jupyter notebooks.
-  1. One is Predictive model file where find to check which model is better perform for our project.
-  2. Second is Model deployment UI implementation file, where find to check whether transaction fraudulent or not.
+The Project consists of 1 Jupyter notebook.
+The Dataset file is available in Data Set Folder.
+The Model Deployment code is available in Model Deployment Folder.
 
 Machine Learning Models Used:
   1. Logistic Regression
@@ -48,7 +48,7 @@ Machine Learning Models Used:
 <a id='2.2'></a>
 ## Installation
   1. Clone the repo
-      git clone https://github.com/DevlinCode/Prediction-of-Credit-Card-fraud.git
+      git clone https://github.com/ShashankkSahu/CreditCard_fraud_detection.git
      
 <a id='3'></a>     
 ## Usage
